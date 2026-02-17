@@ -7,6 +7,10 @@ The server uses CORS headers, so it runs locally without any issues.
 
 ## Launch
 
+* Clone project locally
+
+  git clone git@github.com:via4e/test-tube.git
+
 * Start server 
 
    From the project's root folder, run the command
